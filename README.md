@@ -1,3 +1,3 @@
 # bootstrap1
 
-請參考：https://github.com/jenny22427/bootstrap1.git
+請參考：http://127.0.0.1:5502/index.html
